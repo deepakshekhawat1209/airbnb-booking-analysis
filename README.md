@@ -1,8 +1,6 @@
 # Airbnb EDA Project
 This is the Capstone project which is a part of my Data Science training at AlmaBetter.
 
-# Link to Tableau Dashboard:
-https://public.tableau.com/views/AirbnbDashboard_16749377287470/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 # Summary of this Project-
 
